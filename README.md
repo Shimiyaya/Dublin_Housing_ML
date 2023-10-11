@@ -1,4 +1,4 @@
-# Dublin Housing Machine Leaarning Test 
+# Dublin Housing Machine Learning Test 
 Description: first independent machine learning project and use of github.
 
 Aim: Clean data using optimal ML techniques, scale variables, deal with NaNs, 
